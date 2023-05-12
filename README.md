@@ -16,6 +16,21 @@
  ```
  
  ![]()
+
+git status
+git add
+git add .
+git add nome do arquivo
+git commit -m "msg"
+git push
+
+ git branch "nome" > Para criar a branch
+ git checkout "nome" > troca entre branch
+ git checkou -b "nome" > muda para outra branch, caso não exista é criado
+ 
+
+
+
  
  
  
