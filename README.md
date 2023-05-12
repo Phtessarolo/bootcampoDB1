@@ -18,11 +18,11 @@
  ![]()
 
 - git status
--git add
--git add .
-git add nome do arquivo
-git commit -m "msg"
-git push
+- git add
+- git add .
+- git add nome do arquivo
+- git commit -m "msg"
+- git push
 
  - git branch "nome" > Para criar a branch
  - git checkout "nome" > troca entre branch
